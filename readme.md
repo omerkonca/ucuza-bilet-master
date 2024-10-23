@@ -4,7 +4,9 @@
 Bu  Python uygulaması, sizin istediğiniz eşik fiyatın altına düşen uçuşları size mail olarak gönderir.
 Verileri https://www.ucuzabilet.com/ sitesinden çekmektedir ve belirli aralıklarda bu işlemi tekrar ettirebilirsiniz.
 
-![Ucuza_Bilet](mail.png)
+![image](https://github.com/user-attachments/assets/29a8c507-c933-468f-a2cb-34db09062e86)
+
+
 
 ## Kullanım
 
@@ -34,8 +36,8 @@ Verileri https://www.ucuzabilet.com/ sitesinden çekmektedir ve belirli aralıkl
 
 ## Bize Ulaşın
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/kadirbulbulcom/)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdulkadirbulbul/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/omerkoncaa/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/omerkonca/)
 
 
 # Cheap Fly Tickets [EN]
@@ -43,7 +45,8 @@ Verileri https://www.ucuzabilet.com/ sitesinden çekmektedir ve belirli aralıkl
 This Python application e-mails you flights that fall below your desired threshold price.
 It pulls the data from https://www.ucuzabilet.com/ and you can repeat this process at certain intervals.
 
-![Ucuza_Bilet](mail.png)
+![image](https://github.com/user-attachments/assets/716e2554-566c-4e3a-af1e-100634ae8bad)
+
 
 
 ## Use
@@ -74,5 +77,5 @@ It pulls the data from https://www.ucuzabilet.com/ and you can repeat this proce
 
 ## Contact Us
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/kadirbulbulcom/)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdulkadirbulbul/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/omerkoncaa/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/omerkonca/)
